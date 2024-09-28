@@ -1,3 +1,4 @@
 pytube
 yt-dlp
 coloramapyfiglet
+pyfiglet
